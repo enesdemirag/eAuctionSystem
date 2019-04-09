@@ -1,12 +1,14 @@
 ## Coursework: eAuction System
+
 Faculty of Engineering & Technology
+
 Department of Computer Science
 
-Module Name: **Object Oriented Systems**
-Module Code: **5104COMP**
-Level: **5**
-Credit Rating: **20**
-Lecturer: **Mr. Glyn Hughes**
+- Module Name: **Object Oriented Systems**
+- Module Code: **5104COMP**
+- Level: **5**
+- Credit Rating: **20**
+- Lecturer: **Mr. Glyn Hughes**
 
 ---
 
