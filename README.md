@@ -1,9 +1,9 @@
 ## Coursework: eAuction System
 
-Faculty of Engineering & Technology
+<img align="right" src="http://www.ljmuenglish.com/wp-content/uploads/2017/08/unilogo_90.jpg" height="102" width="354">
 
-Department of Computer Science
-
+- Faculty Name: **Faculty of Engineering & Technology**
+- Department Name: **Department of Computer Science**
 - Module Name: **Object Oriented Systems**
 - Module Code: **5104COMP**
 - Level: **5**
