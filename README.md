@@ -76,3 +76,17 @@ The requirements document above is only an overview of the system. It does not i
 You should produce..
 
 - Console Application, using either written in Java or in C#
+
+## UML Diagrams
+
+#### Class Diagram
+![class-diagram](ClassDiagram.png)
+
+#### Use Case Diagram
+![use-case-diagram](UseCaseDiagram.png)
+
+#### State Diagram
+![state-diagram](StateDiagram.png)
+
+### Communication Diagram
+![comm-diagram](CommunicationDiagram.png)
